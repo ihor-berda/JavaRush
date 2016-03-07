@@ -1,0 +1,2 @@
+This file will be opened by Notepad.exe
+You can change the content.
